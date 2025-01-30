@@ -1,6 +1,3 @@
-#VERSION: 1.00
-#AUTHORS: Laiteux (matt@laiteux.dev)
-
 import json
 from datetime import datetime
 from helpers import retrieve_url
@@ -9,7 +6,7 @@ from novaprinter import prettyPrinter
 class yggapi(object):
     name = "YggAPI"
     url = "https://yggapi.eu"
-    passkey = "YOUR_PASSKEY_HERE" # https://www.ygg.re/user/account
+    passkey = "Pcdell1992!" # https://www.ygg.re/user/account
 
     supported_categories = {
         "all": "",
